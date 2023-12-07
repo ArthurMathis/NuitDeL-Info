@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "question": "Est-ce que Flutter est un framework de développement multiplateforme ?",
+    "reponse": true,
+    "explication": "Oui, Flutter est un framework de développement multiplateforme créé par Google. Il permet de créer des applications mobiles pour Android, iOS et web à partir d'un même code source."
+  },
+  {
+    "id": 2,
+    "question": "Dart est-il le langage de programmation utilisé avec Flutter ?",
+    "reponse": true,
+    "explication": "Effectivement, Flutter utilise Dart comme langage de programmation principal. Dart est un langage moderne et performant, conçu pour le développement d'applications mobiles et web."
+  },
+  {
+    "id": 3,
+    "question": "Flutter est-il développé par Google ?",
+    "reponse": true,
+    "explication": "Oui, Flutter est développé et maintenu par Google. Il est open-source et bénéficie d'une large communauté de développeurs."
+  },
+  {
+    "id": 4,
+    "question": "Flutter utilise-t-il principalement le langage de programmation JavaScript ?",
+    "reponse": false,
+    "explication": "Non, Flutter utilise le langage Dart. Contrairement à de nombreuses autres technologies de développement mobile, Flutter ne dépend pas du langage JavaScript pour créer des applications."
+  }
+]
+  
