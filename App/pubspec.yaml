@@ -57,6 +57,9 @@ flutter:
     - assets/SwiftUI.png
     - assets/cartes.png
     - assets/questions.json
+    - assets/logo.png
+    - assets/bouton_faux.png
+    - assets/bouton_vrai.png
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
